@@ -6,6 +6,7 @@ const urls = [
   'https://swapi.dev/api/people/1/',
   'https://reqres.in/api/users',
 ];
+console.log('TRABAJO REALIZADO POR: LOZANO MURILLO ALAN MAURICIO');
 
 // Ejercicio 1 - Generar un fetch e imprimir name, model y manufacturer
 fetch(urls[0])
